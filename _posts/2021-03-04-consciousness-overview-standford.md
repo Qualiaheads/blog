@@ -14,7 +14,7 @@ What is the difference between qualitative states of consciousness (qualia) and 
 
 Is consciousness a fundamental property of the world, or not?
 
-* Life, for example, is not a fundamental concept. Things can be alive or living, but life itself doesn't exist beyond living things.
+* Life, for example, is not a fundamental concept. Things can be alive or living, but life itself doesn't exist as a concept beyond this.
 * In contrast, electromagnetic fields are fundamental physical phenomena.
 * What about consciousness?
   * Does this boil down to the debate over dualism?
