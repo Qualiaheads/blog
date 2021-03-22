@@ -21,7 +21,7 @@ Test protocol makes sense to decouple crow's response from input stimulus
 * Crow can't just associate action with seeing the stimulus and vice versa
   * Needs to "access" its memory of whether it saw the stimulus, when it receives the secondary cue after the delay period
 
-Figure 4 b) wasn't entirely convincing
+Figure 4 b) wasn't entirely convincing. We did some modelling [here](https://nbviewer.jupyter.org/github/consciousness-discussions/blog/blob/master/notebooks/Noisy%20neuron%20access%20consciousness.ipynb).
 
 * Wouldn't a similar result be expected from a single, noisy neuron encoding the stimulus intensity?
   * Noise would cause the neuron to become more predictive of the outcome closer to the decision time
