@@ -40,4 +40,4 @@ Attention =/= Consciousness:
 
 Are some conscious states inherently more "desirable" than others?
 
-Why are men repelled by naked men, but women aren't repelled by naked women?
+Why are men repelled by naked men, but women aren't repelled by naked women (in [this work](https://doi.org/10.1073/pnas.0605678103))? Is it a societal effect, or biologically hardcoded?
