@@ -13,7 +13,7 @@ Review of: Christof Koch's presentation on [IIT](https://www.youtube.com/watch?v
 
 We didn't get very far through the video (20 min) because we kept stopping to discuss and getting sidetracked. Lots of interesting food for thought though.
 
-[Motion Induced Blindness](https://webhome.weizmann.ac.il/home/masagi/MIB/mib.html) was an interesting phenomenon. Could we relate that to our ongoing debate - "is it a fundamental experience to see different colours, apart from the associations we have for each colour?" - would changing the colours of the vanishing dots cause them to reappear?
+[Motion Induced Blindness](https://webhome.weizmann.ac.il/home/masagi/MIB/mib.html) was an interesting phenomenon. Could we relate that to our ongoing debate - "is it a fundamental experience to see different colours, apart from the associations we have for each colour?" - would changing the colours of the vanishing dots cause them to reappear? We test this [here](https://consciousness-discussions.github.io/blog/motion-induced-blindness-colours/).
 
 What Christof says are the data for consciousness, that any potential theory must predict/explain:
 
