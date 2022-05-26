@@ -1,3 +1,3 @@
-# Consciousness Discussion Blog
+# Qualiaheads Blog
 
-View blog [here](https://consciousness-discussions.github.io/blog).
+View blog [here](https://qualiaheads.github.io/blog).
