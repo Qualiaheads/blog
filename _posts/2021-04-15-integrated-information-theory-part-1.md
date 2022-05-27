@@ -6,7 +6,7 @@ tags:
   - IIT
 ---
 
-Paper review of: [From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0](https://doi.org/10.1371/journal.pcbi.1003588). Guilio Tononi's theory for how phenomenal consciousness arises from computation.
+Paper review of: [From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0](https://doi.org/10.1371/journal.pcbi.1003588). Giulio Tononi's theory for how phenomenal consciousness arises from computation.
 
 We only made it through the first 10 pages of the paper, so this discussion will be continued at a later point.
 
