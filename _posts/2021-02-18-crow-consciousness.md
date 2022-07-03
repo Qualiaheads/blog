@@ -4,6 +4,7 @@ date: 2021-02-18T19:00:00+01:00
 tags:
   - access consciousness
   - experimental
+categories: paper
 ---
 
 Paper review of: [A neural correlate of sensory consciousness in a corvid bird](https://science.sciencemag.org/content/369/6511/1626) (doi currently broken). Do crows have sensory / access consciousness?

@@ -4,6 +4,7 @@ date: 2021-03-04T19:00:00+01:00
 tags:
   - philosophical
   - theoretical
+categories: review
 ---
 
 Review of: Stanford Encyclopedia of Philosophy's entry on [consciousness](https://plato.stanford.edu/entries/consciousness/). Understanding different concepts of consciousness, and the three problems: what, why, and how.

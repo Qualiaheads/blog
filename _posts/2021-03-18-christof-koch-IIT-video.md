@@ -5,6 +5,7 @@ tags:
   - philosophical
   - theoretical
   - IIT
+categories: video
 ---
 
 Review of: Christof Koch's presentation on [IIT](https://www.youtube.com/watch?v=LGd8p-GSLgY) and the nature of consciousness more generally.

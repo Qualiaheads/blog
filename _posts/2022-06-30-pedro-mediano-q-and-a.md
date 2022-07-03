@@ -5,6 +5,7 @@ tags:
   - IIT
   - PID
   - synergy
+categories: QandA
 ---
 
 [Pedro Mediano](https://pmediano.gitlab.io/) kindly agreed to do a Q and A session with us, particularly based on two of his papers:
