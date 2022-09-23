@@ -12,7 +12,7 @@ Here are a couple of the more of less wacky ones
 
 ## The Triforce of Consciousness
 
-![The triforce of consciousness](../assets/images/triforce-of-consciousness.svg)
+![The triforce of consciousness](https://raw.githubusercontent.com/Qualiaheads/blog/master/assets/images/triforce-of-consciousness.svg)
 
 Despite the overly exaggerated name, this became a useful way of thinking about things for us. Some observations/thoughts:
 
