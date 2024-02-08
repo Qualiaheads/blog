@@ -1,5 +1,5 @@
 ---
-title: "Metaphysical Positions on Consciousness"
+title: "Consciousness and Unambiguous Representations"
 date: 2024-02-08T10:00:00+02:00
 tags:
   - article
